@@ -159,6 +159,15 @@ a {
         .hero .hero-img-wrap:after {
           top: -40px; } }
 
+          @media (max-width: 768px) {
+            #tt{
+              margin-top: -20px !important;
+            }
+          }
+
+          #tt{
+            margin-top: 50px;
+          }
 .btn {
   font-weight: 600;
   padding: 12px 30px;
