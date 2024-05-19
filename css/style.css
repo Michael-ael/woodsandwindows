@@ -171,6 +171,18 @@ a {
               margin-right: 0px !important;
               margin-bottom: 15px !important;
             }
+
+            #crypto-p{
+              font-size: 14px !important;
+            }
+          }
+
+          #crypto-p{
+            text-align: center; font-weight: bold; font-size: 20px;
+          }
+
+          #crypto-h3{
+            text-align: center; font-weight: bold; color: #000;
           }
 
           #tt{
